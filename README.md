@@ -1,4 +1,4 @@
-<div style="background-image: url('./graficos/images.jpg')">
+<div style="background-color: lightblue">
 # ISPC_CienciaDeDatos_I
 ## Trabajo práctico primera etapa
 

@@ -1,4 +1,4 @@
-  <img src="./graficos/images.jpg" aling="center">
+  <img src="./graficos/images.jpg"  background-size="cover">
   <h1>ISPC Ciencia De Datos e IA</h1> 
   <h2>Trabajo práctico primera etapa </h2> 
 

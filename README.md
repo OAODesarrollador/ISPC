@@ -1,4 +1,7 @@
 <div background-color="lightblue">
+  <div class="slides">
+        <section data-markdown="slides.md" data-background-image="./graficos/images.jpg"></section>
+      </div>
   <img src="./graficos/images.jpg">
   <h1>ISPC Ciencia De Datos e IA</h1> 
   <h2>Trabajo práctico primera etapa </h2> 

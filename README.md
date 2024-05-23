@@ -1,6 +1,6 @@
 <div style="background-color: lightblue">
-# ISPC_CienciaDeDatos_I
-## Trabajo práctico primera etapa
+<h1>ISPC_CienciaDeDatos_I</h1> 
+<h2>Trabajo práctico primera etapa </h2> 
 
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 

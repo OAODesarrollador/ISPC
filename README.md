@@ -1,4 +1,4 @@
-  <img src="./graficos/imagenISPC.png"  width="50%" margin-left="30px" >
+  <img src="./graficos/imagenISPC.png"  width="50%" caption="Image caption">
   <h1>ISPC Ciencia De Datos e IA</h1> 
   <h2>Trabajo práctico primera etapa </h2> 
 

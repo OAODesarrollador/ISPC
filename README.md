@@ -1,6 +1,7 @@
-<div style="background-color: yellow;">
-<h1>ISPC Ciencia De Datos e IA</h1> 
-<h2>Trabajo práctico primera etapa </h2> 
+<div >
+  <img src="./graficos/images.jpg">
+  <h1>ISPC Ciencia De Datos e IA</h1> 
+  <h2>Trabajo práctico primera etapa </h2> 
 
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 

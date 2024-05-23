@@ -1,8 +1,4 @@
-<div background-color="lightblue">
-  <div class="slides">
-        <section data-markdown="slides.md" data-background-image="./graficos/images.jpg"></section>
-      </div>
-  <img src="./graficos/images.jpg">
+  <img src="./graficos/images.jpg" aling="center">
   <h1>ISPC Ciencia De Datos e IA</h1> 
   <h2>Trabajo práctico primera etapa </h2> 
 
@@ -37,4 +33,4 @@ Integrantes:
   - Ortiz, Oscar Alejandro
     - Email: okyformosa@gmail.com
     - Github: okyformosa2
-</div>
+

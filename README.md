@@ -1,4 +1,4 @@
-<img src="./graficos/images.jpg">
+<div style="backgound-image: url('./graficos/images.jpg')">
 # ISPC_CienciaDeDatos_I
 ## Trabajo práctico primera etapa
 
@@ -33,3 +33,4 @@ Integrantes:
   - Ortiz, Oscar Alejandro
     - Email: okyformosa@gmail.com
     - Github: okyformosa2
+</div>

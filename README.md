@@ -1,4 +1,4 @@
-<div style="backgound-image: url('./graficos/images.jpg')">
+<div style="background-image: url('./graficos/images.jpg')">
 # ISPC_CienciaDeDatos_I
 ## Trabajo práctico primera etapa
 

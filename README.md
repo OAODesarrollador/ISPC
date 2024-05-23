@@ -1,4 +1,4 @@
-  <img src="./graficos/images.jpg"  color="black">
+  <img src="./graficos/images.jpg"  padding= 25%>
   <h1>ISPC Ciencia De Datos e IA</h1> 
   <h2>Trabajo práctico primera etapa </h2> 
 

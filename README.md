@@ -1,4 +1,4 @@
-<div background-color: lightblue>
+<div background-color="lightblue">
   <img src="./graficos/images.jpg">
   <h1>ISPC Ciencia De Datos e IA</h1> 
   <h2>Trabajo práctico primera etapa </h2> 

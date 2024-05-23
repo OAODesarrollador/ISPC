@@ -1,12 +1,13 @@
 
-<style>
+
+<div class="contenedor">
+  <img src="./graficos/imagenISPC.png"  width="50%">
+  <h1 >ISPC Ciencia De Datos e IA</h1>
+  <style>
   .contenedor {
     background-color: green;
   }
-</style>
-<div class="contenedor">
-  <img src="./graficos/imagenISPC.png"  width="50%">
-  <h1 >ISPC Ciencia De Datos e IA</h1> 
+</style> 
   <h2>Trabajo práctico primera etapa </h2> 
 </div>
 

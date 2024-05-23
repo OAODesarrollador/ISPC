@@ -1,5 +1,6 @@
+<img src="./graficos/imagenISPC.png">
 # ISPC_CienciaDeDatos_I
-##Trabajo práctico primera etapa
+## Trabajo práctico primera etapa
 
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 

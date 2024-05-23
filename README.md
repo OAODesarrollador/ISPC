@@ -2,7 +2,8 @@
   <h1 >ISPC Ciencia De Datos e IA</h1>
   
   <h2>Trabajo práctico primera etapa </h2> 
-
+  <h3>Remuneración de los empleados del sector TI de Argentina</h3>
+<p>El presente trabajo tiene el objetivo de analizar la evolución y las características de los sueldos en la República Argentina durante el año 2023. Este estudio proporciona una visión detallada sobre las variaciones salariales, las diferencias regionales, los sectores económicos más destacados y el impacto de la inflación en el poder adquisitivo de los trabajadores del rubro en Argentina.</p>
 
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 

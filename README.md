@@ -1,4 +1,4 @@
-<img src="./graficos/imagenISPC.png">
+<img src="./graficos/images.jpg">
 # ISPC_CienciaDeDatos_I
 ## Trabajo práctico primera etapa
 
